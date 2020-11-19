@@ -54,7 +54,7 @@
   <div class="card-header text-center">love for cats</div>
   <div class="card-body">
     <h5 class="card-title  text-center">j'aime les chats....</h5>
-    <p class="card-text text-center">les chats c'est les meilleurs, voilà. Pis ils sont trop mignons quoi !!</p>
+    <p class="card-text text-center">les chats c'est les meilleurs, voilà. Pis ils sont trop mignons quoi ,mais oui !!! !!</p>
   </div>
 </div>
 
