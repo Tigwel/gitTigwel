@@ -59,6 +59,7 @@
 
     <p class="card-text text-center">les chats c'est les meilleurs, voilà. Pis ils sont trop mignons quoi ,mais oui !!! !!</p>
 
+    <p>joli minousshhh : miaaaouuuuw</p>
   </div>
 </div>
 
